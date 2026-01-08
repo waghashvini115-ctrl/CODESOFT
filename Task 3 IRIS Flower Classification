@@ -1,5 +1,0 @@
-In this task, I have worked on the Iris Flower Classification problem.
-The Iris dataset contains three species: Setosa, Versicolor, and Virginica.
-Using sepal and petal measurements, I performed data preprocessing,
-trained a machine learning classification model, and evaluated its performance.
-The model successfully classifies iris flowers into their respective species.
